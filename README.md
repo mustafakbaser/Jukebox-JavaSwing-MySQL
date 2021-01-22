@@ -1,5 +1,5 @@
 <h1 align="center">Jukebox | Java Swing, MySQL</h1>
-<p align="center"><i>A collection of awesome readme templates to display on your github profile.</i></p>
+<p align="center"><i>Java Swing Application</i></p>
 <div align="center">
   <a href="https://github.com/mustafakbaser/Jukebox-JavaSwing-MySQL/stargazers"><img src="https://img.shields.io/github/stars/mustafakbaser/Jukebox-JavaSwing-MySQL" alt="Stars Badge"/></a>
 <a href="https://github.com/mustafakbaser/Jukebox-JavaSwing-MySQL/network/members"><img src="https://img.shields.io/github/forks/mustafakbaser/Jukebox-JavaSwing-MySQL" alt="Forks Badge"/></a>
