@@ -6,7 +6,7 @@
 <a href="https://github.com/mustafakbaser/Jukebox-JavaSwing-MySQL/pulls"><img src="https://img.shields.io/github/issues-pr/mustafakbaser/Jukebox-JavaSwing-MySQL" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/mustafakbaser/Jukebox-JavaSwing-MySQL/issues"><img src="https://img.shields.io/github/issues/mustafakbaser/Jukebox-JavaSwing-MySQL" alt="Issues Badge"/></a>
 <a href="https://github.com/mustafakbaser/Jukebox-JavaSwing-MySQL/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mustafakbaser/Jukebox-JavaSwing-MySQL?color=2b9348"></a>
-<a href="https://github.com/mustafakbaser/Jukebox-JavaSwing-MySQL/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mustafakbaser/Jukebox-JavaSwing-MySQL?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/mustafakbaser/Jukebox-JavaSwing-MySQL/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mustafakbaser/Jukebox-JavaSwing-MySQ?color=2b9348" alt="License Badge"/></a>
 </div>
 <br>
 
